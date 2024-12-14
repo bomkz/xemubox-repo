@@ -1,0 +1,9 @@
+[submodule "pkgbuilds/xemu-git"]
+	path = pkgbuilds/xemu-git
+	url = https://aur.archlinux.org/xemu-git.git
+[submodule "pkgbuilds/cpp-httplib-compiled"]
+	path = pkgbuilds/cpp-httplib-compiled
+	url = https://aur.archlinux.org/cpp-httplib-compiled.git
+[submodule "pkgbuilds/xemubox-installer-git"]
+	path = pkgbuilds/xemubox-installer-git
+	url = https://github.com/bomkz/xemubox-installer-git.git
