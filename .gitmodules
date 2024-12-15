@@ -7,3 +7,9 @@
 [submodule "pkgbuilds/xemubox-installer-git"]
 	path = pkgbuilds/xemubox-installer-git
 	url = https://github.com/bomkz/xemubox-installer-git.git
+[submodule "pkgbuilds/xone-dongle-firmware"]
+	path = pkgbuilds/xone-dongle-firmware
+	url = https://aur.archlinux.org/xone-dongle-firmware
+[submodule "pkgbuilds/xone-dlundqvist-dkms-git"]
+	path = pkgbuilds/xone-dlundqvist-dkms-git
+	url = https://aur.archlinux.org/xone-dlundqvist-dkms-git.git
