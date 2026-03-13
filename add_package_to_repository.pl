@@ -28,7 +28,7 @@ sub main {
     print "\n";
     chdir '../..';
 
-    my @packageFiles = glob "$config->{pkgbuildDir}/$packageName/$packageName-*.pkg.tar.xz";
+    my @packageFiles = glob "$config->{pkgbuildDir}/$packageName/$packageName-*.pkg.tar.zst";
     die 'No built package file found.' if ($#packageFiles < 0);
 
     foreach my $packageFile (@packageFiles) {

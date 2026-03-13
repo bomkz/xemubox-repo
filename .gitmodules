@@ -13,3 +13,6 @@
 [submodule "pkgbuilds/xone-dlundqvist-dkms-git"]
 	path = pkgbuilds/xone-dlundqvist-dkms-git
 	url = https://aur.archlinux.org/xone-dlundqvist-dkms-git.git
+[submodule "pkgbuilds/xemubox-dashboard-git"]
+	path = pkgbuilds/xemubox-dashboard-git
+	url = https://github.com/bomkz/xemubox-dashboard-git.git
